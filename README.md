@@ -38,11 +38,23 @@ Requirements:
 **•(100 points) Write code in your Python file that will allow a user to submit duplicate data to a form, but will not save duplicate data (like the same user should not be able to submit the exact same tweet text for HW3).**
  
  **Application Routes**
+ 
+ 
  / -> home.html
+ 
+ 
  /allfacts -> all-facts.html
+ 
+ 
  /zipcode-search -> zipcode-search.html
+ 
+ 
  /name-search -> name-search.html
+ 
+ 
  /names -> names-results.html
+ 
+ 
  
  
  
